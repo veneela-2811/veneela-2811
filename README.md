@@ -1,3 +1,3 @@
 #demoo
-this is my fist repository
+this is my first repository
 authoe-mee
